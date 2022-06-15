@@ -1,0 +1,15 @@
+//sample java program to display message
+import java.lang.*;
+class sample
+{
+public static void main(string args[])
+{
+   system.out.println("this is added in master branch");
+   system.out.println("welcome team");
+   system.out.println("unwanted line");
+   system.out.println("added extra line");
+   //this is a comment at the end of main()
+   system.out.println("hello");
+   system.out.println("devops");
+}
+}
